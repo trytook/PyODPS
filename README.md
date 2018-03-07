@@ -1,3 +1,3 @@
 # PyODPS
 
-## This is about open sources on PyODPS codes on MaxCompute.
+## This is about open sources of PyODPS codes on ALiYun MaxCompute.
